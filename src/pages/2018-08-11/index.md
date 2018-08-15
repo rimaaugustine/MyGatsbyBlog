@@ -5,4 +5,4 @@ title: "my three gatsby post"
 author: "Rima"
 ---
 
-this is my very three blog post in gatsby
+this is my very three blog post in gatsby. Halooooo semuanya
